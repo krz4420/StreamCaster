@@ -1,0 +1,50 @@
+{
+  "streams": [
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "id": 1
+    },
+    {
+      "title": "hello",
+      "description": "hello",
+      "id": 2
+    },
+    {
+      "title": "hellothere",
+      "description": "hello new stream",
+      "id": 3
+    },
+    {
+      "title": "hea",
+      "description": "asdf",
+      "id": 4
+    },
+    {
+      "title": "hea",
+      "description": "asdf",
+      "id": 5
+    },
+    {
+      "title": "hea",
+      "description": "asdf",
+      "id": 6
+    },
+    {
+      "title": "program nav",
+      "description": "hellothere",
+      "id": 8
+    },
+    {
+      "title": "stream comp reuse",
+      "description": "refactorthis",
+      "id": 9
+    },
+    {
+      "title": "Big booty bitches",
+      "description": "whole lotta ass",
+      "userId": "108268478290540328579",
+      "id": 10
+    }
+  ]
+}
